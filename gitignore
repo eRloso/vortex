@@ -1,0 +1,3 @@
+storage/cache/*.json
+*.zip
+.vscode/
